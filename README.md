@@ -4,7 +4,7 @@ This repo houses publicly available documentation for Portage Labs projects.
 
 ## Files
 
-- **[SUMMARRY.md](docs/SUMMARY.md)** covers the overall project documentation.
+- **[SUMMARY.md](docs/SUMMARY.md)** covers the overall project documentation.
 
 ## Contact
 
